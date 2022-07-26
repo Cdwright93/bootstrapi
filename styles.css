@@ -24,3 +24,17 @@ h1 {
     font-style: italic;
     color: #999;
 }
+.api-section1 {
+    width: 90%;
+    max-width: 900px;
+    padding: 24px;
+    border: 1px solid #999;
+    border-radius: 4px;
+    margin: 24px 24px 0;
+}
+
+.api-content1 {
+    font-weight: bold;
+    font-style: italic;
+    color: #999;
+}
